@@ -16,7 +16,6 @@ This repository contains all the code, documentation, and resources related to t
 - Python-based implementation
 - Modular and extensible design
 - Open source and easy to contribute to
-- *(List your key project features here – add more details!)*
 
 ---
 
@@ -47,14 +46,12 @@ Describe, with examples or commands, how to use your project.
 ```bash
 python main.py  
 ```
-*(Add further usage instructions specific to your project)*
 
 ---
 
 ## 💡 License
 
 This project is for the Samsung Innovation Campus Capstone and is currently unlicensed.  
-*(Add license information here if you choose one)*
 
 ---
 
@@ -65,4 +62,6 @@ Project Maintainer: <br>
 
 ---
 
-*Feel free to replace the placeholders and add specific sections such as project architecture, demo, screenshots, Acknowledgments, etc.*
+## Acknowledgements
+
+A huge thank you to Presidency University, Bangalore and Samsung Innovation Campus from Samsung R&D Institute - India
