@@ -8,7 +8,6 @@ Samsung Innovation Campus Capstone Project
 
 CalmRobo is a capstone project developed for the Samsung Innovation Campus.  
 This repository contains all the code, documentation, and resources related to the project.  
-*(Please provide a short description of your project’s functionality here)*
 
 ---
 
