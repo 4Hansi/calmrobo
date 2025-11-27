@@ -64,4 +64,4 @@ Project Maintainer: <br>
 
 ## Acknowledgements
 
-A huge thank you to Presidency University, Bangalore and Samsung Innovation Campus from Samsung R&D Institute - India
+A huge thank you to Presidency University, Bangalore and Samsung Innovation Campus by Samsung R&D Institute - India
