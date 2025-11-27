@@ -46,16 +46,9 @@ pip install -r requirements.txt
 
 Describe, with examples or commands, how to use your project.
 ```bash
-python main.py  # or another entry point
+python main.py  
 ```
 *(Add further usage instructions specific to your project)*
-
----
-
-## 👨‍💻 Contributing
-
-Contributions are welcome!  
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -68,7 +61,8 @@ This project is for the Samsung Innovation Campus Capstone and is currently unli
 
 ## 📬 Contact
 
-Project Maintainer: [4Hansi](https://github.com/4Hansi)
+Project Maintainer: <br>
+[4Hansi](https://github.com/4Hansi) <br> [AR-30](https://github.com/AR-30) <br> [rishitha-359](https://github.com/rishitha-359)
 
 ---
 
